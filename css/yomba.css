@@ -40,6 +40,16 @@ html, body {
     background-color:#1f253d;
 }
 
+.glyphicon-user, .glyphicon-eye-open, .glyphicon-film {
+    margin-right:5px;
+    color:#11a8ab;
+}
+
+.glyphicon-menu-down{
+    margin-left:5px;
+    color:#11a8ab;
+}
+
 /* Main Content */
 section{
     margin-top:80px;
